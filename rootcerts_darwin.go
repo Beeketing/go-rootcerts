@@ -5,7 +5,7 @@ import (
 	"os/exec"
 	"path"
 
-	"github.com/mitchellh/go-homedir"
+	"github.com/Beeketing/go-homedir"
 )
 
 // LoadSystemCAs has special behavior on Darwin systems to work around
