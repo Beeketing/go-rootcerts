@@ -1,3 +1,3 @@
-module github.com/hashicorp/go-rootcerts
+module github.com/Beeketing/go-rootcerts
 
-require github.com/mitchellh/go-homedir v1.0.0
+require github.com/Beeketing/go-homedir v1.0.0-custom
